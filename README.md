@@ -3,23 +3,25 @@
 <p align="center" style="font-size: 14px">
 👋👋👋 DUONG DAM 👋👋👋
 </p>
-<img width="200" src="https://classfunc.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-classfunc6.5a44d6c2.webp&w=3840&q=75" alt="classfunc">
+<img width="500" src="https://classfunc.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-classfunc6.5a44d6c2.webp&w=3840&q=75" alt="classfunc">
 </div>
 
 ****
 
-## ****Languages***
+## ***Languages***
 ```bash
     Javascript
     Typescript
 ```
-## ****Skill***
+## ***Skill***
 ```bash
     Nodejs
     Reactjs
-    NextJS
+    Nextjs
     Firebase
     Google Cloud Platform
+    Flutter
+    React Native
 ```
 
 - 🔭 I’m currently working on Classfunc Co.,LTD
