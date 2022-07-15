@@ -8,6 +8,8 @@
 
 ****
 
+![snake gif](https://github.com/duongdam/snake.svg)
+
 ## ***Languages***
 ```bash
     Javascript
