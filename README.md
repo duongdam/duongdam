@@ -8,7 +8,7 @@
 
 ****
 
-![snake gif](https://github.com/duongdam/snake.svg)
+<img align="center" width="100%" height="100%" src="https://github.com/duongdam/duongdam/blob/main/snake.svg">
 
 ## ***Languages***
 ```bash
