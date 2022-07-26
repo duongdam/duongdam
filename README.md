@@ -15,10 +15,11 @@
     Javascript
     Typescript
     Dart
+    Go
+    Node
 ```
 ## ***Skill***
 ```bash
-    Nodejs
     Reactjs
     Nextjs
     Firebase
