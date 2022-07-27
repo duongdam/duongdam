@@ -3,7 +3,6 @@
 <p align="center" style="font-size: 14px">
 👋👋👋 DUONG DAM 👋👋👋
 </p>
-<img width="500" src="https://classfunc.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-classfunc6.5a44d6c2.webp&w=3840&q=75" alt="classfunc">
 </div>
 
 ****
@@ -26,6 +25,7 @@
     Google Cloud Platform
     Flutter
     React Native
+    AWS
 ```
 
 - 🔭 I’m currently working on Classfunc Co.,LTD
