@@ -29,4 +29,4 @@
     Docker
 ```
 
-- 🔭 I’m currently working on Classfunc Co.,LTD
+- 🔭 I’m currently working on CLASSFUNC SOFTWARES.,JSC
