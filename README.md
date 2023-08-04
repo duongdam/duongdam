@@ -11,11 +11,12 @@
 
 ## ***Languages***
 ```bash
-    Javascript
-    Typescript
+    JS
+    TS
     Dart
     Go
     Node
+    Python
 ```
 ## ***Skill***
 ```bash
@@ -27,6 +28,9 @@
     React Native
     AWS
     Docker
+    DevOps
+    MLOps
+    AI
 ```
 
 - 🔭 I’m currently working on CLASSFUNC SOFTWARES.,JSC
