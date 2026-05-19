@@ -32,5 +32,3 @@
     MLOps
     AI
 ```
-
-- 🔭 I’m currently working on CLASSFUNC SOFTWARES.,JSC
